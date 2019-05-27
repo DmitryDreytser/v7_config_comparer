@@ -354,16 +354,7 @@ namespace v7MetaData
 
             public static Dictionary<string, string> DeveloperID = new Dictionary<string, string>
             {
-                //{"ДД ","Дрейцер Д."},
-                //{"Frog","Козлов В."},
-                //{"Berko","Берко А."},
-                //{"Iceberg","Берко А."},
-                //{"Берко","Берко А."},
-                //{"КГ ","Давыдова К."},
-                //{"Нина","Подвязникова Н."},
-                //{"Максим","Чернушко М."},
-                //{"Олег","Шейко О."},
-                //{"Соловьёв","Соловьёв И."}
+
             };
 
             private int SubstringCount(string sourcestring, string substring)
